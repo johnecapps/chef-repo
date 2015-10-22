@@ -1,0 +1,13 @@
+{
+     "name": "development",
+     "description": "",
+     "cookbook_versions": {
+          "ch-base": "= 0.1.1"
+     },
+     "json_class": "Chef::Environment",
+     "chef_type": "environment",
+     "default_attributes": {
+     },
+     "override_attributes": {
+     }
+}
